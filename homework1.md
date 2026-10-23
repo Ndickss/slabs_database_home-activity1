@@ -1,4 +1,6 @@
 # Author: Ndivhuwo
+ 
+ ![anything](PYRAMID GRAPH.png)
 
 3. Data Flow & Purpose: Explain what kind of data is processed at this level and how it supports decision-making
 
